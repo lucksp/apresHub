@@ -1,4 +1,4 @@
-angular.module('',[
+angular.module('apres',[
 	'ngRoute',
-	'ngResource', 
+	'ngResource'
 	])
